@@ -1,0 +1,1216 @@
+{
+  "vectors": [
+    {
+      "id": "1.1.1",
+      "desc": "",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.0"
+    },
+    {
+      "id": "1.1.2.1",
+      "desc": "Passport",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "1.035"
+    },
+    {
+      "id": "1.1.2.2",
+      "desc": "Residence Permit",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "1.0"
+    },
+    {
+      "id": "1.1.2.3",
+      "desc": "Driver's License",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "1.0"
+    },
+    {
+      "id": "1.1.2.4",
+      "desc": "Other government accepted ID",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "1.0"
+    },
+    {
+      "id": "1.2.1.1",
+      "desc": "Bank account exists",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.54"
+    },
+    {
+      "id": "1.2.1.2",
+      "desc": "Bank account > 1 year old",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.53"
+    },
+    {
+      "id": "1.2.1.3",
+      "desc": "Bank account > 3 year old",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.52"
+    },
+    {
+      "id": "1.2.2.1",
+      "desc": "Traditional bank",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.2.2.2",
+      "desc": "Credit union or building society",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.2.2.3",
+      "desc": "Challenger bank",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.2.2.4",
+      "desc": "Other banking solution",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.2.2.5",
+      "desc": "No prior bank account",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.2.3.1",
+      "desc": "Salary currently paid via direct debit",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.26"
+    },
+    {
+      "id": "1.2.3.2",
+      "desc": "Direct debit history > 1 year",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.26"
+    },
+    {
+      "id": "1.2.3.3",
+      "desc": "Direct debit history > 3 years",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.26"
+    },
+    {
+      "id": "1.2.4.1",
+      "desc": "At least one direct bill payment",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.2.4.2",
+      "desc": "Bill payment in existence > 1 year",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.2.4.3",
+      "desc": "Bill payment in existence > 3 year",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.3.1.1",
+      "desc": "Salaried employee",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.2"
+    },
+    {
+      "id": "1.3.1.2",
+      "desc": "Wage earner",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.2"
+    },
+    {
+      "id": "1.3.1.3",
+      "desc": "Contractor/self-employed",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.2"
+    },
+    {
+      "id": "1.3.1.4",
+      "desc": "Zero hour/gig worker",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.2"
+    },
+    {
+      "id": "1.3.1.5",
+      "desc": "Not employed",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.2"
+    },
+    {
+      "id": "1.3.2.1",
+      "desc": "Currently employed",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.4"
+    },
+    {
+      "id": "1.3.2.2",
+      "desc": "Same employer/position >1 year",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.4"
+    },
+    {
+      "id": "1.3.2.3",
+      "desc": "Same employer/position >3 years",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.4"
+    },
+    {
+      "id": "1.3.3.1",
+      "desc": "Full time",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.25"
+    },
+    {
+      "id": "1.3.3.2",
+      "desc": "Part-time fixed",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.25"
+    },
+    {
+      "id": "1.3.3.3",
+      "desc": "Part-time variable",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.25"
+    },
+    {
+      "id": "1.3.4.1",
+      "desc": "Monthly Payment Frequency",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.54"
+    },
+    {
+      "id": "1.3.4.2",
+      "desc": "Fortnightly Payment Frequency",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.54"
+    },
+    {
+      "id": "1.3.4.3",
+      "desc": "Weekly Payment Frequency",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.54"
+    },
+    {
+      "id": "1.3.4.4",
+      "desc": "Unfixed Payment Frequency",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.54"
+    },
+    {
+      "id": "1.3.5",
+      "desc": "",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.54"
+    },
+    {
+      "id": "1.4.1.1",
+      "desc": "Full",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.1.2",
+      "desc": "Partial",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.1.3",
+      "desc": "None",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.2.1",
+      "desc": "Full",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.2.2",
+      "desc": "Partial",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.2.3",
+      "desc": "None",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.3",
+      "desc": "Other government benefit",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.4.1",
+      "desc": "Less than 1 year",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.4.2",
+      "desc": "On benefits more than one year",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.4.3",
+      "desc": "On benefits more than three years",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.5.1",
+      "desc": "Benefit decision pending",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.5.2",
+      "desc": "Benefit sanctioned",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.5.3",
+      "desc": "Benefit cancelled",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.5.4",
+      "desc": "Fraud investigation",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.5.5",
+      "desc": "No benefit disqualifiers",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.6.1",
+      "desc": "Rental",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.6.2",
+      "desc": "Pension",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.6.3",
+      "desc": "Business dividends",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.6.4",
+      "desc": "Other investments",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "1.4.7",
+      "desc": "Savings",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.09"
+    },
+    {
+      "id": "1.4.8",
+      "desc": "Supported by family",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.1"
+    },
+    {
+      "id": "1.4.9",
+      "desc": "",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.11"
+    },
+    {
+      "id": "1.5.1.1",
+      "desc": "Homeowner",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.23"
+    },
+    {
+      "id": "1.5.1.2",
+      "desc": "Renter",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.23"
+    },
+    {
+      "id": "1.5.1.3",
+      "desc": "Non-paying tenant",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.23"
+    },
+    {
+      "id": "1.5.1.4",
+      "desc": "No address",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.23"
+    },
+    {
+      "id": "1.5.2.1",
+      "desc": "Bank statement",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.24"
+    },
+    {
+      "id": "1.5.2.2",
+      "desc": "Utility bill",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.24"
+    },
+    {
+      "id": "1.5.2.3",
+      "desc": "Council tax bill",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.24"
+    },
+    {
+      "id": "1.5.2.4",
+      "desc": "No proof of residence",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.24"
+    },
+    {
+      "id": "1.5.3.1",
+      "desc": "Less than 1 year",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.24"
+    },
+    {
+      "id": "1.5.3.2",
+      "desc": "1 to 3 years",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.24"
+    },
+    {
+      "id": "1.5.3.3",
+      "desc": "3+ years",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.24"
+    },
+    {
+      "id": "1.5.4.1",
+      "desc": "Unexpired passport",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.27"
+    },
+    {
+      "id": "1.5.4.2",
+      "desc": "Unexpired residence card",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.27"
+    },
+    {
+      "id": "1.5.4.3",
+      "desc": "Certified copy UK birth certificate",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.27"
+    },
+    {
+      "id": "1.5.4.4",
+      "desc": "Proof of refugee/asylum status",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.27"
+    },
+    {
+      "id": "1.5.4.5",
+      "desc": "No proof of right to reside",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.27"
+    },
+    {
+      "id": "2.1.1.1",
+      "desc": "Current account accessible via open banking",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.1.1.2",
+      "desc": "Functional current account use <= 20%",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.1.1.3",
+      "desc": "Functional current account use > 20%",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.1.1.4",
+      "desc": "Functional current account use > 40%",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.1.1.5",
+      "desc": "Functional current account use > 60%",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.1.1.6",
+      "desc": "Functional current account use > 80%",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.1.2.1",
+      "desc": "Less than 20% of transactions successfully classified by TrueLayer",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.1.2.2",
+      "desc": "At least 20% of transactions successfully classified by TrueLayer",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.1.2.3",
+      "desc": "At least 40% of transactions successfully classified by TrueLayer",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.1.2.4",
+      "desc": "At least 60% of transactions successfully classified by TrueLayer",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.1.2.5",
+      "desc": "At least 80% of transactions successfully classified by TrueLayer",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.1.1",
+      "desc": "Debt-income ratio <= 25%",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.1.2",
+      "desc": "Debt-income ratio > 25%",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.1.3",
+      "desc": "Debt-income ratio > 50%",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.1.4",
+      "desc": "Debt-income ratio > 100%",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.1.5",
+      "desc": "Debt-income ratio > 200%",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.2.1",
+      "desc": "Less than 20% of total debt collateralized",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.2.2",
+      "desc": "At least 20% of total debt collateralized",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.2.3",
+      "desc": "At least 40% of total debt collateralized",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.2.4",
+      "desc": "At least 60% of total debt collateralized",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.2.5",
+      "desc": "At least 80% of total debt collateralized",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.3.1",
+      "desc": "Less than 25% of total debt within N% of prime",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.3.2",
+      "desc": "Greater than 25% of total debt within N% of prime",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.3.3",
+      "desc": "Greater than 50% of total debt within N% of prime",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.3.4",
+      "desc": "Greater than 75% of total debt within N% of prime",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.3.5",
+      "desc": "Less than 25% or of total debt at 30%+",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.3.6",
+      "desc": "Greater than 25% of total debt at 30%+",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.3.7",
+      "desc": "Greater than 50% of total debt at 30%+",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.3.8",
+      "desc": "Greater than 75% of total debt at 30%+",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.4.1",
+      "desc": "Total debt sources  <= 2",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.4.2",
+      "desc": "Total debt sources <=5",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.2.4.3",
+      "desc": "Total debt sources  > 5",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.3.1",
+      "desc": "result <  10",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.3.2",
+      "desc": "result <  25",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.3.3",
+      "desc": "result <  50",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.3.4",
+      "desc": "result >= 50",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.1.1",
+      "desc": "Zero balance reached <10% of months",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.1.2",
+      "desc": "Zero balance reached <50% of months",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.1.3",
+      "desc": "Zero balance reached <=75% of months",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.1.4",
+      "desc": "Zero balance reached >75% of months",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.2.1",
+      "desc": "Y when AVG>= 26",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.2.2",
+      "desc": "Y when AVG>= 16",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.2.3",
+      "desc": "Y when AVG>= 11",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.2.4",
+      "desc": "Y when AVG< 11",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.3.1",
+      "desc": "Burn rate improving over last 6 months",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.3.2",
+      "desc": "Burn rate improving over last 12 months",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.3.3",
+      "desc": "Burn rate worsening over last 6 months",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.3.4",
+      "desc": "Burn rate worsening over last 12 months",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.4.1",
+      "desc": "No overdraft",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.4.2",
+      "desc": "Average OD utilization <=25%",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.4.3",
+      "desc": "Average OD utilization >25%",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.4.4",
+      "desc": "Average OD utilization >50%",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.4.5",
+      "desc": "Average OD utilization >75%",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "2.4.4.6",
+      "desc": "Average OD utilization >90%",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.1.1",
+      "desc": "Essential payments paid consistently >80% of months",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.1.2",
+      "desc": "Essential payments paid consistently >50% of months",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.1.3",
+      "desc": "Essential payments paid consistently >25% of months",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.1.4",
+      "desc": "Essential payments paid consistently <=25% of months",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.2.1",
+      "desc": "Highest interest loans paid more than minimum >80% of months",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.2.2",
+      "desc": "Highest interest loans paid more than minimum >50% of months",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.2.3",
+      "desc": "Highest interest loans paid more than minimum >25% of months",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.2.4",
+      "desc": "Highest interest loans paid more than minimum <=25% of months",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.3.1",
+      "desc": "<5% of all loan payments missed",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.3.2",
+      "desc": "<10% of all loan payments missed",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.3.3",
+      "desc": "<20% of all loan payments missed",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.3.4",
+      "desc": ">=20% of all loan payments missed",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.4.1",
+      "desc": "=<25% of loan payments are more than the minimum",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.4.2",
+      "desc": ">25% of loan payments are more than minimum",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.4.3",
+      "desc": ">50% of loan payments are more than minimum",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.4.4",
+      "desc": ">75% of loan payments are more than minimum",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.5.1",
+      "desc": "<=25% of all non-collateralized loan payments are paid in full",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.5.2",
+      "desc": ">25% of all non-collateralized loan payments are paid in full",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.5.3",
+      "desc": ">50% of all non-collateralized loan payments are paid in full",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.1.5.4",
+      "desc": ">75% of all non-collateralized loan payments are paid in full",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.2.1.1",
+      "desc": "Has a savings account with primary bank",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.2.1.2",
+      "desc": "Has a savings account with another bank",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.2.1.3",
+      "desc": "Does not have a savings account",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.2.2.1",
+      "desc": "return Y when SBM < =AMI",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.2.2.2",
+      "desc": "return Y when SBM > AMI",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.2.2.3",
+      "desc": "return Y when SBM > 3 *AMI",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.2.2.4",
+      "desc": "return Y when SBM > 6 *AMI",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.2.2.5",
+      "desc": "return Y when SBM > 12 *AMI",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.2.3.1",
+      "desc": "Savings deposits in <= 25% of months",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.2.3.2",
+      "desc": "Savings deposits in > 25% of months",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.2.3.3",
+      "desc": "Savings deposits in > 50% of months",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.2.3.4",
+      "desc": "Savings deposits in > 75% of months",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.3.1",
+      "desc": "",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.3.2",
+      "desc": "",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.3.3",
+      "desc": "",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.3.4",
+      "desc": "",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.3.5",
+      "desc": "",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.4.1.1",
+      "desc": "Social Spending <= 20% of monthly income",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.4.1.2",
+      "desc": "Social Spending > 20% of monthly income",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.4.1.3",
+      "desc": "Social Spending > 40% of monthly income",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.4.1.4",
+      "desc": "Social Spending > 60% of monthly income",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.4.1.5",
+      "desc": "Social Spending > 80% of monthly income",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.4.2.1",
+      "desc": "Gambling <= 10% of average monthly income",
+      "dq": "Y",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.4.2.2",
+      "desc": "Gambling >10% of average monthly income",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.4.2.3",
+      "desc": "Gambling >25% of average monthly income",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    },
+    {
+      "id": "3.4.2.4",
+      "desc": "Gambling >50% of average monthly income",
+      "dq": "N",
+      "weight": "25",
+      "coeff": "0.51"
+    }
+  ],
+  "customerId": "35543e8a-34ba-41db-a96d-d2b148279f82"
+}
